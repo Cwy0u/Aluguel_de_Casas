@@ -1,0 +1,26 @@
+.containerCreateHouse{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.formCreateHouse{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+}
+
+.nav-item{
+    cursor: pointer;
+}
+
+.containerHouses{
+    padding: 20px 10px;
+}
+
+.card-title{
+    font-weight: bold;
+}
